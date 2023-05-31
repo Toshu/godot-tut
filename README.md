@@ -1,0 +1,1 @@
+# repo for freecodecamp-course "Learn Godot for Game Development" (https://www.freecodecamp.org/news/learn-godot-for-game-development/ or https://www.youtube.com/watch?v=S8lMTwSRoRg&t=8s)
